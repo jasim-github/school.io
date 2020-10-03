@@ -1,0 +1,153 @@
+.btn
+{
+	border-color: brown;
+	color: black;
+	background-color: yellow;
+
+}
+.btn:hover
+{
+	border-color: brown;
+	color: white;
+	background-color: black;
+	padding: 0.57rem 0.95rem;
+	transition: ease-in padding 0.3s;
+}
+.navbar
+{
+	padding: 20px;
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+    background-color: wheat;
+}
+
+.navbar-light .navbar-brand {
+    color: wheat;
+}
+.bg-light {
+    background-color: #287bb6!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 22px;
+}
+.form-control
+{
+	border-color: brown;
+}
+.navbar-brand img
+{
+	width: 60px;
+}
+.carousel-caption {
+    position: absolute;
+    z-index: 27;
+    top: 40%;
+    bottom: 60%;
+    color: #fff;
+    text-align:left;
+}
+h5, .h5 {
+    font-size: 3.25rem;
+}
+p
+{
+	font-size: 1.5rem;
+}
+.ban .con a
+{
+	color: white;
+	background-color: brown;
+	padding: 6px 10px;
+	border-radius: 10px;
+}
+.ban .con a:hover
+{
+	color: white;
+	background-color: black;
+	padding: 8px 12px;
+	border-radius: 10px;
+	transition: color 0.3s ease-in-out, background-color 0.5s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, padding 0.5s ease-in-out;
+}
+.crd section h5
+{
+	font-size: 30px;
+	padding-top: 15px;
+	padding-bottom: 1px;
+	text-align: center;
+	color: white;
+}
+.crd
+{
+	padding-top: 15px;
+	padding-bottom: 25px;
+	background-color: #287bb6;
+}
+.crd .cards .row .card
+{
+	background-color: #33353c;
+}
+.crd .cards .row .card a
+{
+	padding: 8px 10px;
+	background-color: #995f00;
+	border-radius: 6px;
+	color: white;
+}
+.crd .im img
+{
+	width: 300px;
+	height: auto;
+
+}
+.card-body h5
+{
+	color: wheat;
+}
+.card-body p
+{
+	color: wheat;
+}
+.crd h4
+{
+	text-align: center;
+}
+.condent
+{
+	background-image: url(../images/scl.png);
+}
+.condent .row
+{
+	padding: 30px;
+}
+.condent .col-lg-6 h1
+{
+	color: white;
+}
+.condent .col-lg-6 li
+{
+	color: white;
+	font-size: 30px;
+}
+@media (min-width:770px;){
+	h5, .h5
+	{
+		font-size: 2.25rem
+	}
+	p 
+	{
+    font-size: 0.5rem;
+	}
+	.ban .con a 
+	{
+    color: white;
+    background-color: brown;
+    padding: 5px 8px;
+    border-radius: 10px;
+	}
+
+}
+
+	
