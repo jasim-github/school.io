@@ -1,0 +1,2 @@
+# school.io
+about school
