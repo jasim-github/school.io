@@ -180,15 +180,15 @@ p
     margin-left: 48%;
     height: 50px;
 }
-@media (min-width:770px)
+@media (max-width:770px)
 {
 	.exam h5
 	{
-		margin-left: 24%;
+		margin-left: 21%;
 	}
 	.exam img
 	{
-		margin-left: 37vh;
+		margin-left: 24vh;
 	}
 }
 	
