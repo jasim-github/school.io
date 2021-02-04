@@ -172,7 +172,8 @@ p
 }
 .exam img
 { 
-	margin-left: 38%;
+	margin-left: 36%;
+	margin-right: auto;
 	height: 100px;
 }
 .exam span img 
@@ -180,7 +181,7 @@ p
     margin-left: 48%;
     height: 50px;
 }
-@media (max-width:980px)
+@media (max-width:770px)
 {
 	.exam h5
 	{
@@ -191,7 +192,7 @@ p
 		margin-left: 24vh;
 	}
 }
-	
+
 
 
 	
