@@ -158,7 +158,40 @@ p
 	color: #fff;
 	text-align: left;
 }
-
+.exam 
+{
+	margin: 5% 8% auto;
+}
+.exam h5
+{
+	color: #fff;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 40px;
+	margin-left: 34%;
+	
+}
+.exam img
+{ 
+	margin-left: 38%;
+	height: 100px;
+}
+.exam span img 
+{
+    margin-left: 48%;
+    height: 50px;
+}
+@media (min-width:770px)
+{
+	.exam h5
+	{
+		margin-left: 24%;
+	}
+	.exam img
+	{
+		margin-left: 37vh;
+	}
+}
+	
 
 
 	
