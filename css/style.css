@@ -147,7 +147,18 @@ p
     padding: 5px 8px;
     border-radius: 10px;
 	}
+	
 
 }
+.carousel-caption {
+	position: absolute;
+	z-index: 27;
+	top: 17%;
+	bottom: 60%;
+	color: #fff;
+	text-align: left;
+}
+
+
 
 	
